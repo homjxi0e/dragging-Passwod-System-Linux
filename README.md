@@ -11,3 +11,5 @@ https://github.com/jihadLkmaty218/CVE-2017-4490-/blob/master/.bashrc
 ![screenshot from 2017-07-10 22-39-51](https://user-images.githubusercontent.com/25440152/28045028-b49a5ee2-65a8-11e7-94e7-09707d37898f.png)
 Video
 https://www.youtube.com/watch?v=e1wq79v94fQ&feature=youtu.be
+
+![vokoscreen-2017-07-13_16-25-10](https://user-images.githubusercontent.com/25440152/28179622-8374e5e2-67d0-11e7-98e5-ad7f8b61fb41.gif)
